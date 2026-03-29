@@ -59,8 +59,3 @@ Anshul Vyas
 - Location: Jodhpur, Rajasthan, India
 - B.Tech CSE — JIET (2023-2027)
 
-## Achievements
-- 2nd Runner-Up — Smart India Hackathon
-- Deployed live web app on AWS EC2
-
-
