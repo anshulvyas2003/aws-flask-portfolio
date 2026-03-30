@@ -1,6 +1,6 @@
 # AWS Flask Portfolio
 
-A Python Flask web application deployed on AWS EC2 with Nginx reverse proxy.
+A Python Flask web application that deployed on AWS EC2 with Nginx reverse proxy.
 Live at: http://65.2.49.110
 
 ## Tech Stack
